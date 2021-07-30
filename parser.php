@@ -1,17 +1,12 @@
 <!DOCTYPE html>
  <html>
- <head>
-     <title></title>
- </head>
- <body>
  
 
  <form method="post">
      <input type="text" name="link">
      <input type="submit" name="submit">
  </form>
- </body>
- </html> 
+      
 
 
 
